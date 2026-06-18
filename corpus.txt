@@ -1,0 +1,13 @@
+Machine learning atau pembelajaran mesin adalah cabang dari Artificial Intelligence (AI)
+Teknologi ini memungkinkan komputer belajar dari data
+Komputer dapat mengenali pola secara otomatis
+Komputer juga dapat membuat prediksi tanpa aturan yang ditulis secara rinci oleh manusia
+Machine learning menggunakan data sebagai sumber pembelajaran
+Semakin banyak data yang digunakan, semakin baik kemampuan model yang dihasilkan
+Hasil pembelajaran tersebut disebut model machine learning
+Machine learning memiliki beberapa jenis pendekatan
+Supervised learning menggunakan data yang memiliki label
+Metode ini sering digunakan untuk klasifikasi dan prediksi
+Unsupervised learning menggunakan data tanpa label. Metode ini digunakan untuk menemukan pola atau kelompok data
+Reinforcement learning menggunakan sistem penghargaan dan hukuman
+Metode ini banyak digunakan pada robot dan permainan komputer
